@@ -27,7 +27,7 @@
   ```
 
   ## Progress
-  - [ ] Data exploration: Analyzed feature distributions and correlations
+  - [x] Data exploration: Analyzed feature distributions and correlations
   - [ ] Data preprocessing
   - [ ] Model training
   - [ ] API deployment
