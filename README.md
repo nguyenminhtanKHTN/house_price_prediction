@@ -15,11 +15,13 @@
   │   ├── raw/california_housing.csv
   │   └── external/
   ├── notebooks/
-  │   └── data_exploration.ipynb
+  │   ├── data_exploration.ipynb
+  │   └── data_preprocessing.ipynb
   ├── results/
   │   ├── feature_distribution.png
   │   ├── correlation_matrix.png
-  │   └── eda_metrics.txt
+  │   ├── boxplot_medhouseval.png
+  │   └── median_house_value_distribution_postprocessed.png
   ├── requirements.txt
   ├── README.md
   ├── LICENSE
