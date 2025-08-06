@@ -28,7 +28,7 @@
 
   ## Progress
   - [x] Data exploration: Analyzed feature distributions and correlations
-  - [ ] Data preprocessing
+  - [x] Data preprocessing: Handle null values, encode categorical, scale features, split train/test
   - [ ] Model training
   - [ ] API deployment
 
