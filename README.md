@@ -31,7 +31,7 @@
   ## Progress
   - [x] Data exploration: Analyzed feature distributions and correlations
   - [x] Data preprocessing: Handle null values, encode categorical, scale features, split train/test
-  - [ ] Model training
+  - [x] Model training: Linear Regression with R2 ~ 0.6
   - [ ] API deployment
 
   ## Setup
